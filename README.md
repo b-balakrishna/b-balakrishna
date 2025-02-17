@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-balakrishna" alt="b-balakrishna" /></a> </p>
 
+- 🌱 I’m currently learning **Next JS, AI/ML and Cloud Technologies**
+
+- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+
+- 💬 Ask me about **MERN and Full Stack**
+
+- 📫 How to reach me **battulabalakrishna063@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Qka5q98XmV-O7Ng_mK84M_qR291xMPBd/view?usp=drive_link](https://drive.google.com/file/d/1Qka5q98XmV-O7Ng_mK84M_qR291xMPBd/view?usp=drive_link)
+
+- ⚡ Fun fact **I love exploring new tech stacks!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/b-balakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="b-balakrishna" height="30" width="40" /></a>
@@ -19,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-balakrishna&show_icons=true&locale=en" alt="b-balakrishna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-balakrishna&" alt="b-balakrishna" /></p>
-
